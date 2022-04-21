@@ -1,5 +1,6 @@
 um programa inteiro estaria aqui. e apareceria todo 
 esse programa, em algum lugar:
+_fazer cadastro_
 nome:
 e-mail:
 admin:
