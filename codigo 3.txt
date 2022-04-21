@@ -1,5 +1,7 @@
-um programa inteiro estaria aqui. e apareceri a todo 
+um programa inteiro estaria aqui. e apareceria todo 
 esse programa, em algum lugar:
 nome:
 e-mail:
+admin:
+senha:
 
