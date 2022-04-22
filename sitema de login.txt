@@ -1,5 +1,6 @@
-Fazer o login:
+Fazer o login: para operadores número ID obrigatorio
 nome:
 e-mail:
 admin:
 senha:
+número ID:
